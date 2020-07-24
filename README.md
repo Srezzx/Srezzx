@@ -20,9 +20,11 @@
 
 
 
-| [<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](linkedin.com/in/sriesh-agrawal-5b2bb0190/) | [<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/Sriesh_Agrawal) | [<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/imsrezz/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Srezzx)  [<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:agrawalsriesh1203@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](linkedin.com/in/sriesh-agrawal-5b2bb0190/) | [<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/Sriesh_Agrawal) | [<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/imsrezz/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Srezzx) | [<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:agrawalsriesh1203@gmail.com)
+|:---:|:---:|:---:|:---:|:---:|
 
+<br>
+<br>
 
 
 <!--
