@@ -1,3 +1,4 @@
+<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/name.gif" width="500px">
 # Sriesh Agrawal<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 <img align="right" alt="PC GIF" src="https://github.com/Srezzx/Srezzx/blob/master/Assets/aboutme.gif" width="250" />
