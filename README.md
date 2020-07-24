@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Earth.gif" width="24px">
 <!--
 **Srezzx/Srezzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
