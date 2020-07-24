@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Srezzx/Srezzx/blob/master/Assets/name.gif" width="400px">
+<img align="center" src="https://github.com/Srezzx/Srezzx/blob/master/Assets/name_2.gif" width="800px">
 
 <img align="right" alt="PC GIF" src="https://github.com/Srezzx/Srezzx/blob/master/Assets/aboutme.gif" width="250" />
 
