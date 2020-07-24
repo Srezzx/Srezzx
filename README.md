@@ -12,22 +12,16 @@
     <b>excel.</b> <img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Medal.gif" width="20px">
   </em>  
 </p>
-<br>
 
 ### **More about me...**
 
 - 🔭 I’m currently working on mastering React 💻.
 - 🌱 I’m currently improving my Full Stack Development 🚀.
-- 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack. :)
 - 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
-
-
-<br>
+- 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack. :)
 
 ![Srezzx's github stats](https://github-readme-stats.vercel.app/api?username=Srezzx&show_icons=true&hide_border=true)
-
-
 
 
 #### Tech Stack
@@ -48,9 +42,6 @@
 
 | [<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://linkedin.com/in/sriesh-agrawal-5b2bb0190/) | [<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/Sriesh_Agrawal) | [<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/imsrezz/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Srezzx) | [<img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:agrawalsriesh1203@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|
-
-<br>
-<br>
 
 
 
