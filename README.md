@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack. :)
 
 ![Srezzx's github stats](https://github-readme-stats.vercel.app/api?username=Srezzx&show_icons=true&hide_border=true)
-<img align="right" src="https://github.com/Srezzx/Srezzx/blob/master/Assets/PC.gif" width="100">
+<img align="right" src="https://github.com/Srezzx/Srezzx/blob/master/Assets/PC.gif" width="300">
 
 
 
